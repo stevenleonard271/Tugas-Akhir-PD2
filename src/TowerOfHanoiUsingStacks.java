@@ -13,7 +13,6 @@ public class TowerOfHanoiUsingStacks {
         tower[1] = new Stack(); 
         tower[2] = new Stack();
         tower[3] = new Stack();
-        /* Accepting number of disks */
         System.out.println("Enter number of disks");
         int num = scan.nextInt();
         N = num; 
